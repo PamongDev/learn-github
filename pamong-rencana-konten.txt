@@ -3,4 +3,7 @@ RENCANA KONTEN
 - mencari cara menghitung optimizer RMSProp
 - perhitungan manual
 - cara menghitung arsitektur EfficientNet
-- menentukan skenario penelitian
+- membuat kata pengantar
+- membuat daftar isi
+- membuat referensi
+
