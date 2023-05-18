@@ -1,0 +1,5 @@
+RENCANA KONTEN
+- mencari detail dataset
+- mencari cara menghitung optimizer RMSProp
+- perhitungan manual
+- cara menghitung arsitektur EfficientNet
