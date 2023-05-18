@@ -4,3 +4,5 @@ RENCANA KONTEN
 - perhitungan manual
 - cara menghitung arsitektur EfficientNet
 - membuat kata pengantar
+- membuat daftar isi
+- membuat referensi
