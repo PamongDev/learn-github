@@ -1,0 +1,3 @@
+RENCANA KONTEN
+- mencari detail dataset
+- mencari cara menghitung optimizer RMSProp
